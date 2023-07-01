@@ -13,5 +13,10 @@ npx create-expo-app -e with-router
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
 
-https://www.youtube.com/watch?v=mJ3bGvy0WAY&ab_channel=JavaScriptMastery
-1:46:25
+![](assets/Preview.png)
+
+Open link on your device;
+
+```
+exp://exp.host/@do-va/example-app?release-channel=default
+```
